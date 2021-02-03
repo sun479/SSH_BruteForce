@@ -1,5 +1,8 @@
 # SSH_BruteForce
 SSH brute-force
+
+♦ first install the requirements modules > pip install -r requirements.txt
+
 usage: SSH_Bruteforce.py [-h] [-H HOST] [-P PASSLIST] [-u USER]
 
 SSH BruteForce python script.
